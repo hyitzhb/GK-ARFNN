@@ -1,2 +1,0 @@
-# GK-ARFNN
-GK-ARFNN
